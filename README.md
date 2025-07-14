@@ -31,18 +31,18 @@ https://codeinplace.stanford.edu/cip5/share/Y8IKuazTKme5irBLdS5E
   
   # End-of-game lesson
     
-    Whether the player exits early or successfully finishes all stages, they’ll get to see a lesson which reflects how they responded to their dialogues with the dating partner.
+  Whether the player exits early or successfully finishes all stages, they’ll get to see a lesson which reflects how they responded to their dialogues with the dating partner.
     
-    The intention is to help players become more aware of their tendencies and hopefully, they’ll be able to use the lesson in real life.
+  The intention is to help players become more aware of their tendencies and hopefully, they’ll be able to use the lesson in real life.
   
   # Emotional mini-arcs
     
-    Players unlock mini-arcs after every stage. 
+  Players unlock mini-arcs after every stage. 
     
-    The mini-arc is random, unique and emotional.
-    
-    Here, players can learn something new or appreciate life more.
+  The mini-arc is random, unique and emotional.
+  
+  Here, players can learn something new or appreciate life more.
     
   # Unique dating scenes
     
-    The player and the dating partner meet in unique and different venues per stage.
+  The player and the dating partner meet in unique and different venues per stage.
